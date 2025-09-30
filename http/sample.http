@@ -1,1 +1,1 @@
-GET http://localhost:3000/hello
+GET http://13.125.255.74:80/bye
