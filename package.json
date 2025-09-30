@@ -6,7 +6,8 @@
     "build": "tsc",
     "start": "node dist/app.ts",
     "dev": "tsx watch src/app.ts",
-    "test": "jest"
+    "test": "jest",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "express": "^5.1.0"

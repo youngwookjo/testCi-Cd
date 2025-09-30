@@ -12,10 +12,7 @@ const config = {
   testEnvironment: "node",
   
   // Test files patterns
-  testMatch: [
-    "**/test/**/*.test.ts",
-    "**/__tests__/**/*.test.ts"
-  ],
+  testMatch: ["**/*.test.ts"],
   
   // A map from regular expressions to paths to transformers
   transform: {

@@ -1,5 +1,5 @@
 # 워크플로우 이름: GitHub Actions 탭에 표시됨
-name: Test
+name: Codeit Integration Test
 
 # 트리거: 언제 이 워크플로우가 실행될지 정의
 on:
